@@ -47,3 +47,6 @@ Please note that this project is for learning purposes and may not include advan
 
 Feel free to contribute to the project, provide feedback, or use it as a reference to build your own PHP CRUD applications! Happy coding!
 
+##License
+
+[MIT License](LICENSE)
